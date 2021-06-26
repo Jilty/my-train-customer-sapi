@@ -16,7 +16,7 @@ pipeline
     
     stage('Perform Regression Testing'){
       steps{
-    		bat 'newman run /Users/rm/Desktop/NjcLabs/newman/getUserServices.postman_collection.json'
+    		bat 'newman run C:\Users\LENOVO\AppData\Local\Postman\app-8.7.0\My Train Customer Services.postman_collection'
     	 }
     }
   }
