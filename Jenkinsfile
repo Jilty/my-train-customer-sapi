@@ -16,7 +16,8 @@ pipeline
     
     stage('Perform Regression Testing'){
       steps{
-    		bat 'C:\Users\LENOVO\AppData\Roaming\npm\newman run Users\LENOVO\AppData\Local\Postman\app-8.7.0\My Train Customer Services.postman_collection'
+    		bat 'Users\\LENOVO\\AppData\\Roaming\\npm\\newman run Users\\LENOVO\\AppData\\Local\\Postman\\app-8.7.0\\
+    		My Train Customer Services.postman_collection'
     	 }
     }
   }
