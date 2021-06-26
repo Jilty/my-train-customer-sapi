@@ -34,7 +34,7 @@
             <configuration>    
             <cloudHubDeployment>
 				    <uri>https://anypoint.mulesoft.com</uri>
-                    <muleVersion>4.1.1</muleVersion>
+                    <muleVersion>4.3.0</muleVersion>
 				    <!-- Deploy User Parameter -->
 				    <username>JiltyVibin</username>
 				    <password>Jilty@123</password>
